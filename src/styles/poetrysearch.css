@@ -1,0 +1,62 @@
+.error-message {
+  color: black;
+  font-size: 25x;
+  margin-top: 10px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.poetry-search-title {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.poetry-search-text {
+  text-align: center;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.poetry-input {
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+
+.btn-btn-poetry {
+  border: solid;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  display: block;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: white;
+  background-color: black;
+}
+.poem-title {
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.poem {
+  font-family: Helvetica;
+  text-align: center;
+}
+.poetry-search-row {
+  justify-content: center;
+}
+
+.poem-form {
+  border: 2px solid black;
+  border-radius: 0px;
+  padding: 10px;
+  background-color: #f7faf7;
+  margin-bottom: 30px;
+}
