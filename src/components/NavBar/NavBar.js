@@ -9,13 +9,12 @@ export default function NavBar() {
       <Navbar expand="lg" className="bg-body-white">
         <Container fluid>
           <Navbar.Brand
-            href="PoemGenerator"
+            href="/"
             style={{
               fontSize: "23px",
               marginLeft: "25px",
               fontWeight: "700",
               letterSpacing: "3px",
-              color: "#88cf9b",
             }}
           >
             Atomic Poetry
@@ -43,33 +42,19 @@ export default function NavBar() {
                   textAlign: "center",
                   fontSize: "18px",
                   fontWeight: "700",
-                  color: "#88cf9b",
                 }}
                 as={Link}
                 to="/"
               >
-                Poem Generator
+                Poetry Search
               </Nav.Link>
+
               <Nav.Link
                 style={{
                   display: "block",
                   textAlign: "center",
                   fontSize: "18px",
                   fontWeight: "700",
-                  color: "#88cf9b",
-                }}
-                as={Link}
-                to="About"
-              >
-                About
-              </Nav.Link>
-              <Nav.Link
-                style={{
-                  display: "block",
-                  textAlign: "center",
-                  fontSize: "18px",
-                  fontWeight: "700",
-                  color: "#88cf9b",
                 }}
                 as={Link}
                 to="Newsletter"
@@ -82,7 +67,6 @@ export default function NavBar() {
                   textAlign: "center",
                   fontSize: "18px",
                   fontWeight: "700",
-                  color: "#88cf9b",
                 }}
                 as={Link}
                 to="Contact"
