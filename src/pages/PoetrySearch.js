@@ -49,7 +49,7 @@ function PoetrySearch() {
         />
       </div>
       <br />
-      <button className="btn-btn-poetry" onClick={searchPoem}>
+      <button className="btn-btn-search" onClick={searchPoem}>
         SEARCH
       </button>
 

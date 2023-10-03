@@ -28,7 +28,20 @@
   width: 50%;
 }
 
-.btn-btn-poetry {
+.btn-btn-search {
+  border: solid;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  display: block;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: white;
+  background-color: black;
+}
+
+.btn-btn-reset {
   border: solid;
   margin: auto;
   margin-bottom: 20px;
