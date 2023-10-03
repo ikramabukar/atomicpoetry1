@@ -16,21 +16,7 @@
   width: 30;
 }
 
-.contact-container-container.container {
-  margin-bottom: 4px;
-  margin: auto;
-  width: 50%;
-  display: flex;
-  column-gap: 15px;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-.icon-links a {
-  color: black;
-  margin-bottom: 25px;
-  margin-top: 25px;
-}
-.asterix-text {
+.asterix-text-contact {
   width: 50%;
   margin: auto;
   margin-bottom: 20px;
