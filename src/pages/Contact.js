@@ -3,8 +3,10 @@ import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import "../styles/contact.css";
 import { useState } from "react";
+
+// style imports
+import "../assets/css/contact.css";
 
 export default function Contact() {
   const [contact, setContact] = useState(false);

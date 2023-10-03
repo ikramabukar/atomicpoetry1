@@ -3,7 +3,9 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Form from "react-bootstrap/Form";
 import Col from "react-bootstrap/Col";
-import "../styles/poetrysearch.css";
+
+// styles
+import "../assets/css/poetrysearch.css";
 
 function PoetrySearch() {
   const [poemTitleInput, setPoemTitleInput] = useState("");

@@ -38,5 +38,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
   }
 }

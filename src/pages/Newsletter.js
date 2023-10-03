@@ -3,8 +3,10 @@ import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import "../styles/newsletter.css";
 import { useState } from "react";
+
+// import styles
+import "../assets/css/newsletter.css";
 
 export default function Newsletter() {
   const [subscribe, setSubscribe] = useState(false);

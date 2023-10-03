@@ -6,7 +6,7 @@ import Nav from "react-bootstrap/Nav";
 import { Link } from "react-router-dom";
 
 // style imports
-import "../styles/navbar.css";
+import "../assets/css/navbar.css";
 
 export default function NavBar() {
   return (

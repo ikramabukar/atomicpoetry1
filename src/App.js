@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // import pages
 import PoetrySearch from "./pages/PoetrySearch";
-import Contact from "./pages/Contact";
+import Contact from "./pages//Contact";
 import Newsletter from "./pages/Newsletter";
 
 // import components
