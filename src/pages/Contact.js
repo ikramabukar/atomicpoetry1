@@ -50,7 +50,7 @@ export default function Contact() {
     <Container className="lg-6">
       <Row className="justify-content-center my-5 m-auto">
         <Col className="col-lg-8 col-md-12 col-sm-12">
-          <Form className="contact-form">
+          <Form className="netlify" class="contact-form">
             <h3 className="contact-title">Contact Atomic Poetry</h3>
 
             <p className="asterix-text-contact">

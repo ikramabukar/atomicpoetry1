@@ -45,7 +45,7 @@ export default function Newsletter() {
       <Container lg={6}>
         <Row className="justify-content-center my-5 m-auto">
           <Col className="col-lg-8 col-md-12 col-sm-12">
-            <Form className="form">
+            <Form className="netlify" class="form">
               <h3 className="title">Newsletter Sign-Up</h3>
               <p className="info-text">
                 I would like to receive news and information from Atomic Poetry.
